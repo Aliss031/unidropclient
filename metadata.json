@@ -1,0 +1,8 @@
+{
+  "name": "SwiftCollect Parcel System",
+  "description": "A high-end mobile-first parcel collection system featuring QR codes, collection PINs, smart hub mapping, and an AI-powered support chat.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
